@@ -1,0 +1,137 @@
+* {
+    font-family: 'Exo 2', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(./assets/img/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+header {
+    margin: 0px 0px 0px 120px;
+}
+.home {
+    margin-left: 42px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21px;
+    letter-spacing: 0.88px;
+    align-items: center;
+    color: #17233d;
+    cursor: pointer;
+}
+
+.company {
+    margin-left: 42px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21px;
+    letter-spacing: 0.88px;
+    align-items: center;
+    color: #17233d;
+    cursor: pointer;
+}
+
+.blog {
+    margin-left: 42px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21px;
+    letter-spacing: 0.88px;
+    align-items: center;
+    color: #17233d;
+    cursor: pointer;
+}
+
+.login {
+    font-weight: 400;
+    margin-left: 42px;
+
+    font-size: 16px;
+    line-height: 21px;
+    letter-spacing: 0.88px;
+    align-items: center;
+    color: #17233d;
+    cursor: pointer;
+}
+
+.button-header {
+    width: 124px;
+    height: 51px;
+    margin-top: 32px;
+    margin-left: 41px;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+    letter-spacing: 1px;
+    color: #ffffff;
+    background: #38a100;
+    border: 1px;
+    border-color: #38a100;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.img-main {
+    display: inline-block;
+    width: 595.18px;
+    height: 500px;
+    margin-top: 50px;
+    margin-left: 121px;
+}
+
+section {
+    display: inline-block;
+    margin-left: 86px;
+    width: 493px;
+}
+
+.title {
+    font-weight: 700;
+    font-size: 62px;
+    line-height: 82px;
+    letter-spacing: 0.6px;
+    color: #161a49;
+}
+
+.text {
+    width: 10px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 33px;
+    letter-spacing: 0.5px;
+    width: 515px;
+    margin-top: 32px;
+    margin-bottom: 65px;
+}
+
+.button-main {
+    background: none;
+    width: 239px;
+    height: 64px;
+    border: none;
+    cursor: pointer;
+    font-weight: 700;
+    font-size: 25px;
+    letter-spacing: 1px;
+    color: #ffffff;
+    text-align: left;
+}
+
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+    height: 60px;
+    background-color: #daffcd;
+    color: #17233d;
+    margin-top: 170px;
+}
+
+.text-dev {
+    font-weight: 400;
+}
